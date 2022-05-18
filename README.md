@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikatthakur
-- 👀 I’m interested in learning new stuff with python and java
-- 🌱 I’m currently learning new thing everyday
+- 👀 I’m interested in programming and new technologies
+- 🌱 I’m avid learner
 - 💞️ I’m looking to collaborate on whatever i can
 - 📫 How to reach me vikatthakur007@gmail.com
 
